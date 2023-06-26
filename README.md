@@ -1,2 +1,2 @@
-# responsible-ai
-Personal work exploring responsible ai dimensions.
+# AI ethics toolbox
+Personal work and curated ressources to explore AI ethics dimensions.
