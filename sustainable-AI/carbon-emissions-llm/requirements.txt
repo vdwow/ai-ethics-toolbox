@@ -1,0 +1,4 @@
+llama_index
+codecarbon
+llama-cpp-python
+langchain
